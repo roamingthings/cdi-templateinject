@@ -1,0 +1,4 @@
+== CDI Tempate Inject Library
+
+Inject Groovy-String-Templates (aka `GString`) into CDI beans.
+
